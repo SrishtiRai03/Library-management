@@ -1,0 +1,10 @@
+# No external dependencies required!
+# This project uses only Python standard library modules.
+# Python 3.7+ is required.
+
+# Built-in modules used:
+# - sqlite3   (database)
+# - datetime  (date handling)
+# - os        (terminal clear)
+# - sys       (exit)
+# - re        (regex for search)
